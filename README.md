@@ -14,3 +14,4 @@ BackEnd / Python / install
  - pip intsall keras
  - pip install matplotlib
 ----------------------------------------------
+Базу данныз залить на sql - сервер
